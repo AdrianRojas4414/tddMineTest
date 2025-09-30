@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "9f20ab4e99af63374038cb02ce921abb7c888e23",
     "author": "adrian",
     "commit": {
       "date": "2025-09-30T00:52:55.000Z",
       "message": "tercer commit",
-      "url": "https://github.com/AdrianRojas4414/tddMineTest/commit/HEAD"
+      "url": "https://github.com/AdrianRojas4414/tddMineTest/commit/9f20ab4e99af63374038cb02ce921abb7c888e23"
     },
     "stats": {
       "total": 10,
@@ -55,5 +55,24 @@
     "test_count": 4,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "adrian",
+    "commit": {
+      "date": "2025-09-30T00:55:31.000Z",
+      "message": "cuarto commit",
+      "url": "https://github.com/AdrianRojas4414/tddMineTest/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2025-09-30"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

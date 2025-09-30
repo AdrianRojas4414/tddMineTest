@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "f6d9829a12044567a273413826ffaf9b900b4899",
     "author": "adrian",
     "commit": {
       "date": "2025-09-30T00:45:50.000Z",
       "message": "primer commit",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/f6d9829a12044567a273413826ffaf9b900b4899"
     },
     "stats": {
       "total": 4,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "adrian",
+    "commit": {
+      "date": "2025-09-30T00:50:39.000Z",
+      "message": "segundo commit",
+      "url": "https://github.com/AdrianRojas4414/tddMineTest/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 4,
+      "deletions": 2,
+      "date": "2025-09-30"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
